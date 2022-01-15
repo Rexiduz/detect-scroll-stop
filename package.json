@@ -1,6 +1,6 @@
 {
   "name": "detect-scroll-stop",
-  "version": "1.0.0",
+  "version": "1.0.0a",
   "description": "function for detect element scrolling has stopped by vanilla.js",
   "main": "index.js",
   "repository": {
