@@ -1,0 +1,27 @@
+{
+  "name": "detect-scroll-stop",
+  "version": "1.0.0",
+  "description": "function for detect element scrolling has stopped by vanilla.js",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rexiduz/detect-scroll-stop.git"
+  },
+  "keywords": [
+    "detect",
+    "scroll",
+    "stop",
+    "scrolling",
+    "scroll",
+    "stop",
+    "react",
+    "javascript",
+    "vanilla.js"
+  ],
+  "author": "rexiduz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Rexiduz/detect-scroll-stop/issues"
+  },
+  "homepage": "https://github.com/Rexiduz/detect-scroll-stop#readme"
+}
